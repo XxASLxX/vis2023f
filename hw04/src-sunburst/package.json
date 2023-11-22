@@ -1,0 +1,14 @@
+{
+  "name": "91d312657ec4edc2",
+  "main": "91d312657ec4edc2@74.js",
+  "version": "74.0.0",
+  "homepage": "https://observablehq.com/d/91d312657ec4edc2",
+  "author": {
+    "name": "XxASLxX's Workspace",
+    "url": "https://observablehq.com/@xxaslxx-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
