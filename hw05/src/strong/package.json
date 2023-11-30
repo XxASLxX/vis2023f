@@ -1,0 +1,14 @@
+{
+  "name": "c0528c1f7646f2f4",
+  "main": "c0528c1f7646f2f4@16.js",
+  "version": "16.0.0",
+  "homepage": "https://observablehq.com/d/c0528c1f7646f2f4",
+  "author": {
+    "name": "XxASLxX's Workspace",
+    "url": "https://observablehq.com/@xxaslxx-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
